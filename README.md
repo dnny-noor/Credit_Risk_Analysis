@@ -20,7 +20,7 @@ Six learning techniques were implemented: Random Over Sampler, SMOTE, Cluster Ce
 * Balanced Random Forest Classifier resulted in a balanced accuracy score of 0.79.  
 ![Resources/brf.PNG](Resources/brf.PNG)  
 
-* Easy Ensemble AdaBoost Classifier resulted in a balanced accuracy score of 0.93l
+* Easy Ensemble AdaBoost Classifier resulted in a balanced accuracy score of 0.93.  
 ![Resources/eec.PNG](Resources/eec.PNG)  
 
 
